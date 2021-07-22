@@ -1,0 +1,22 @@
+{
+  "name": "sweethroat-website",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "dev": "simplehttpserver ."
+  },
+  "devDependencies": {
+    "simplehttpserver": "^0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SweeThroat/website.git"
+  },
+  "author": "Sooraj Parameswaran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SweeThroat/website/issues"
+  },
+  "homepage": "https://github.com/SweeThroat/website#readme"
+}
